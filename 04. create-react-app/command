@@ -1,0 +1,8 @@
+npx create-react-app cra-test
+npm install -g npm@latest
+npm install -g react-scripts
+npm install -g webpack-dev-server 
+
+npx serve -s build
+npm run build
+npm start
